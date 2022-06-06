@@ -38,5 +38,4 @@ const showProduct = async () => {
     itemColors.innerHTML += colorOption;
 }
 
-
 showProduct();
